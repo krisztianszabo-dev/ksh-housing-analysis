@@ -23,3 +23,15 @@ Ez egy Python-alapú eszköz a KSH (Központi Statisztikai Hivatal) lakáspiaci 
 1. **Klónozd a tárolót:**
    ```bash
    git clone [https://github.com/krisztianszabo-dev/ksh-housing-analysis.git](https://github.com/krisztianszabo-dev/ksh-housing-analysis.git)
+
+2. **Lépj be a projekt mappájába:**
+   ```bash
+   cd ksh-housing-analysis
+
+3. **Telepítsd a szükséges csomagokat:**
+   ```bash
+   pip install -r requirements.txt
+   
+4. **Indítsd el a programot:**
+   ```bash
+   python main.py
